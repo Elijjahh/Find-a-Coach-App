@@ -25,4 +25,4 @@ pnpm-debug.log*
 babel.config.js
 vue.config.js
 *.json
-*md
+.gitignore
